@@ -1,0 +1,9 @@
+body{
+    background: #eee;
+    font-family: 'IRANYekan' !important;
+    direction: rtl;
+}
+@font-face {
+    font-family: 'IRANYekan';
+    src: url('../../public/fonts/iranyekan/woff2/IRANYekanWebMedium.woff2');
+  }
